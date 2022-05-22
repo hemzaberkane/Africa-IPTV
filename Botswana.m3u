@@ -1,29 +1,10 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/botswana_tv_bw.png" ,Botswana TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/access_tv_bw.png" ,Acces TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khuduga_hd_bw.png" ,Khuduga HD
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/nn/now-bw.png" ,NOW!
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ytv.co.bw/images/logo.png" ,YTV
