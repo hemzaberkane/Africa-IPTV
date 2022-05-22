@@ -1,29 +1,13 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/ef/ORTB_logo.png" ,ORTB
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://ortb.bj/archives/images/logo_bb24_transparent.jpg" ,BB 24
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lebouquetafricain.com/images/chaines/golfe-tv-africa.png" ,Golfe TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="" ,E-télé
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LOGO_ADOTV.png/1200px-LOGO_ADOTV.png" ,ADO TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://canal3television.com/wp-content/uploads/2019/11/logo-canal3bon1-300x212.png" ,Canal 3 Bénin
+https://live.creacast.com/bluediamond/sd/chunklist.m3u8
