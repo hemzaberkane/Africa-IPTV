@@ -1,11 +1,11 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.rtb.bf/wp-content/uploads/2020/04/LOgo-RTB-272-90-3.png" ,RTBF
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.b24tv.com/wp-content/uploads/2021/06/cropped-logo-2.png" ,Burkina 24 TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://3tv.bf/images/LOGO-3TV.png" ,3TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" ,
+#EXTINF:-1 tvg-id="" tvg-logo="https://bf1.tv/images/logo-large.png" ,BF1
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,
 
